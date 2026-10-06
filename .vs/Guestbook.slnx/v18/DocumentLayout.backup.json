@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Guestbook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\wwwroot\\css\\guestbookstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\wwwroot\\css\\guestbookstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|c:\\users\\user\\source\\repos\\guestbook\\guestbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C91AB516-70AB-E890-8466-754F8C15FB8B}|Guestbook\\Guestbook.csproj|solutionrelative:guestbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 146,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Guestbook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Guestbook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T20:22:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Guestbook\\Views\\Account\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Account\\Registration.cshtml",
+              "RelativeToolTip": "Guestbook\\Views\\Account\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T19:34:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Guestbook\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Guestbook\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T19:24:03.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "Guestbook\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "Guestbook\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:22:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Guestbook\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Guestbook\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:19:31.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Guestbook\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Guestbook\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:38:08.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Guestbook\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Guestbook\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-05T17:32:58.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuestbookStyle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\wwwroot\\css\\GuestbookStyle.css",
+              "RelativeDocumentMoniker": "Guestbook\\wwwroot\\css\\GuestbookStyle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\wwwroot\\css\\GuestbookStyle.css",
+              "RelativeToolTip": "Guestbook\\wwwroot\\css\\GuestbookStyle.css",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAADEBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-05T17:30:47.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Comments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Guestbook\\Views\\Comments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Comments\\Index.cshtml",
+              "RelativeToolTip": "Guestbook\\Views\\Comments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T16:56:48.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Guestbook\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Guestbook\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T16:55:43.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Guestbook\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Guestbook\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T16:54:33.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestbookContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\GuestbookContext.cs",
+              "RelativeDocumentMoniker": "Guestbook\\Models\\GuestbookContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\GuestbookContext.cs",
+              "RelativeToolTip": "Guestbook\\Models\\GuestbookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T16:09:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Guestbook\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\Message.cs",
+              "RelativeToolTip": "Guestbook\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T16:06:44.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Guestbook\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Models\\User.cs",
+              "RelativeToolTip": "Guestbook\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T16:00:49.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\appsettings.json",
+              "RelativeDocumentMoniker": "Guestbook\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\appsettings.json",
+              "RelativeToolTip": "Guestbook\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T15:38:39.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Program.cs",
+              "RelativeDocumentMoniker": "Guestbook\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook\\Guestbook\\Program.cs",
+              "RelativeToolTip": "Guestbook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T20:28:37.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

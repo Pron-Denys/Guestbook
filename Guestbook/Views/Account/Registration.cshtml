@@ -1,0 +1,43 @@
+﻿@model Guestbook.Models.RegistrationModel
+
+<div class="registration-container">
+    <h2 class="subtitle">Реєстрація</h2>
+    <form asp-action="Registration">
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="input-group">
+            <label asp-for="Name"></label>
+            <input type="text" asp-for="Name" placeholder="Введіть ім'я" />
+            <span asp-validation-for="Name" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="Surname"></label>
+            <input type="text" asp-for="Surname" placeholder="Введіть прізвище" />
+            <span asp-validation-for="Surname" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="Login"></label>
+            <input type ="text" asp-for="Login" placeholder="Введіть логін" />
+            <span asp-validation-for="Login" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="Year"></label>
+            <input type="number" asp-for="Year" placeholder="Введіть свій вік" />
+            <span asp-validation-for="Year" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" placeholder="Введіть пароль" />
+            <span asp-validation-for="Password" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="PasswordConfirm"></label>
+            <input asp-for="PasswordConfirm" placeholder="Введіть пароль" />
+            <span asp-validation-for="PasswordConfirm" class="error"></span>
+        </div>
+        <input type="submit" value="Зареєструватися" class="submit-btn" />
+        <a asp-controller="Comments" asp-action="Index" class="back-btn">Повернутися</a>
+        @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }
+    </form>
+</div>
