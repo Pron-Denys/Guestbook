@@ -4,12 +4,13 @@ namespace Guestbook.Controllers
 {
     using Guestbook.Models;
     using Microsoft.EntityFrameworkCore;
+    using Guestbook.Repository;
 
-    public class CommentsController(GuestbookContext _db) : Controller
+    public class CommentsController(IRepository repository) : Controller
     {
         public async Task<IActionResult> Index()
         {
-            var messages = await _db.Messages.Include(m => m.User).AsNoTracking().ToListAsync();
+            var messages = await repository.GetMessagesToListAsync();
             return View(messages);
         }
         [HttpPost]
@@ -19,12 +20,12 @@ namespace Guestbook.Controllers
             if (comment == null) return View();
             comment = comment.Trim();
             string login = HttpContext.Session.GetString("login")!;
-            var user = _db.Users.FirstOrDefault(u => u.Login == login);
+            var user = repository.GetUserByLogin(login);
             string day = DateTime.Now.Day.ToString().Length == 1 ? $"0{DateTime.Now.Day}" : DateTime.Now.Day.ToString();
             string month = DateTime.Now.Month.ToString().Length == 1 ? $"0{DateTime.Now.Month}" : DateTime.Now.Month.ToString();
             var message = new Message { Date = $"{day}.{month}.{DateTime.Now.Year}", Text=comment, User = user };
-            _db.Messages.Add(message);
-            await _db.SaveChangesAsync();
+            await repository.AddMessageAsync(message);
+            await repository.SaveChangesAsync();
             return RedirectToAction("Index", "Comments");
         }
     }

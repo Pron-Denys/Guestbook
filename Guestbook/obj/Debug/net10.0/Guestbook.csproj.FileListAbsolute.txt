@@ -147,3 +147,4 @@ C:\Users\User\source\repos\Guestbook\Guestbook\obj\Debug\net10.0\Guestbook.pdb
 C:\Users\User\source\repos\Guestbook\Guestbook\obj\Debug\net10.0\Guestbook.genruntimeconfig.cache
 C:\Users\User\source\repos\Guestbook\Guestbook\obj\Debug\net10.0\ref\Guestbook.dll
 C:\Users\User\source\repos\Guestbook\Guestbook\obj\Debug\net10.0\compressed\popydhdlf3-{0}-xoxeznalx1-xoxeznalx1.gz
+C:\Users\User\source\repos\Guestbook\Guestbook\obj\Debug\net10.0\Guestbook.sourcelink.json

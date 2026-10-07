@@ -1,3 +1,4 @@
+wwwroot\css\GuestbookStyle.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -61,7 +62,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\css\GuestbookStyle.css
+C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\css\GuestbookStyle.css
 C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\css\site.css
 C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\favicon.ico
 C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\js\site.js
@@ -124,4 +125,3 @@ C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\lib\jquery\dist\jquery.sl
 C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\User\source\repos\Guestbook\Guestbook\wwwroot\css\GuestbookStyle.css

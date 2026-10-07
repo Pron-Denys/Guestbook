@@ -7,12 +7,12 @@ namespace Guestbook.Controllers
     using System.Security.Cryptography;
     using Microsoft.AspNetCore.Mvc.ModelBinding;
     using Microsoft.EntityFrameworkCore;
-
-    public class AccountController(GuestbookContext _db) : Controller
+    using Guestbook.Repository;
+    public class AccountController(IRepository repository) : Controller
     {
         public async Task<IActionResult> CheckLogin(string login)
         {
-            var users = await _db.Users.AsNoTracking().ToListAsync();
+            var users = await repository.GetUsersToListAsync();
             string value = String.Empty;
             foreach(var user in users)
             {
@@ -37,7 +37,7 @@ namespace Guestbook.Controllers
         public async Task<IActionResult> Index(LoginModel model)
         {
             if(!ModelState.IsValid) return View(model);
-            var user = _db.Users.FirstOrDefault(u => u.Login == model.Login);
+            var user = repository.GetUserByLogin(model.Login);
             string name = user?.Name!;
             if (user == null)
             {
@@ -69,8 +69,8 @@ namespace Guestbook.Controllers
             byte[] passwordBytes = Encoding.Unicode.GetBytes(salt + model.Password);
             string password = Convert.ToHexString(SHA256.HashData(passwordBytes));
             User user = new User { Login = model.Login, Name = model.Name, Surname = model.Surname, Password = password, Salt = salt, Year = model.Year};
-            _db.Users.Add(user);
-            await _db.SaveChangesAsync();
+            await repository.AddUserAsync(user);
+            await repository.SaveChangesAsync();
             HttpContext.Session.SetString("login", model.Login!);
             return RedirectToAction("Index", "Comments");
         }
